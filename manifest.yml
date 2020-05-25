@@ -3,7 +3,7 @@ applications:
   - name: pal-tracker
     path: build/libs/pal-tracker.jar
     routes:
-      - route: pal-tracker-pal-tracker-gabi.cfapps.io
+      - route: pal-tracker-gabi.cfapps.io
     random-route: true
     env:
       WELCOME_MESSAGE: Hello from the review environment
